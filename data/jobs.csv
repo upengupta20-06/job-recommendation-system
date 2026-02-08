@@ -1,0 +1,364 @@
+job_id,job_title,skills,description
+1,Flutter Developer,Flutter Developer,"A Flutter developer is a software engineer who uses Google's open-source UI toolkit to create natively compiled applications for mobile (iOS, Android), web, and desktop from a single codebase. They specialize in the Dart programming language to build interactive, high-performance UIs with custom widgets. 
+Salary: ₹20,000.00 - ₹40,000.00 per month
+Core Responsibilities & Skills:
+Dart Programming: Proficiency in Dart for writing application logic, handling asynchronous data with Streams and Futures.
+UI/UX Development: Building responsive, visually appealing UIs using Flutter's widget library.
+State Management: Implementing solutions (e.g., Provider, Riverpod, BLoC) to manage application data flow.
+API Integration: Connecting apps to backend services using RESTful APIs or GraphQL.
+Tools & Ecosystem: Utilizing Git for version control, Firebase for backend-as-a-service (auth, Firestore), and CI/CD tools for deployment.
+Debugging & Performance: Utilizing Hot Reload to quickly test changes and optimizing performance to ensure smooth, native-like experiences. 
+Why Choose Flutter?
+Cross-Platform: One codebase for iOS, Android, Web, and Desktop.
+High Performance: Compiles to native machine code.
+Fast Development: Features like Hot Reload drastically speed up development cycles.
+Growing Community: Strong support from Google and a large, active developer ecosystem."
+2,Django Developer,python sql django flask,"A Django developer is a software engineer who uses the Django web framework to build robust, scalable, and secure web applications and APIs using the Python programming language. 
+They primarily focus on server-side logic and database interaction. 
+Key Responsibilities
+Django developers handle various tasks throughout the software development process, including designing and implementing web applications, managing databases with Django's ORM, developing APIs, integrating front-end elements with server-side logic, implementing security measures, writing clean code, and collaborating with teams. 
+Core Skills and Tools
+Essential skills for a Django developer include proficiency in Python and the Django framework's components.
+ They should also be familiar with front-end technologies, version control systems like Git, databases, and web development concepts. 
+Career Path and Job Opportunities
+The demand for Django developers is high across various industries. Many major companies utilize Django."
+3,Machine Learning,python java machine learning deep learning tensorflow pytorch,"Machine Learning (ML) is a subset of artificial intelligence (AI) that enables systems to learn from data, identify patterns, and make decisions or predictions without explicit programming.
+ It uses algorithms—such as neural networks, decision trees, and clustering—to analyze large datasets, improving accuracy over time. 
+
+Machine Learning (ML) jobs are in high demand across sectors like tech, finance, and healthcare
+common roles including Machine Learning Engineer, Data Scientist, AI Research Scientist, MLOps Engineer, and Computer Vision Engineer.
+Key skills required include Python, TensorFlow, PyTorch, data analysis, and system optimization. 
+
+Top Jobs Utilizing Machine Learning:
+Machine Learning Engineer: Develops, builds, and deploys predictive models and recommendation systems.
+Data Scientist: Analyzes complex data, creates algorithms, and interprets data to solve business problems.
+AI/ML Engineer: Focuses on creating AI-driven applications, including NLP (Natural Language Processing) and Generative AI solutions.
+MLOps Engineer: Specializes in the deployment, automation, and management of machine learning models in production.
+Computer Vision Engineer: Works on image and video analysis, often used in robotics and security.
+Data Engineer: Builds the data pipelines and infrastructure necessary for ML models to operate.
+AI Product Manager: Defines product strategy for AI-driven products and services.
+
+Common Skills and Technologies:
+Languages: Python (most dominant), SQL.
+Frameworks/Libraries: TensorFlow, PyTorch, Scikit-learn, Spark.
+Specializations: Generative AI, LLMs, NLP, Neural Networks, Computer Vision. 
+
+Industry Sectors Hiring:
+Technology: Microsoft, Google, Infosys, Qualcomm.
+Consulting & Finance: Deloitte, Capgemini, HDFC Bank, BCG.
+Specialized AI: Wadhwani AI, robotics, and automation firms. "
+4,iOS Developer,excel,"JOB DESCRIPTION:
+
+An iOS developer designs, builds, and maintains applications for Apple's iOS operating system, primarily using Swift and Xcode.
+ They work across the full development lifecycle, from ideation and coding to testing, debugging, and publishing apps to the App Store.
+  Key skills include understanding UI/UX guidelines, API integration, and framework usage (UIKit/SwiftUI). 
+
+Key Responsibilities & Skills:
+Languages: Proficient in Swift (primary) and Objective-C.
+Tools: Expertise in Xcode, Git, and interface builder.
+Development: Building applications for iPhone, iPad, and sometimes WatchOS.
+API & Data: Integrating RESTful APIs, networking (URLSession, Alamofire), and data persistence (Core Data, SQLite).
+Testing/QA: Debugging, unit testing, and UI testing to ensure performance.
+UI/UX: Adhering to Apple’s Human Interface Guidelines. 
+
+How to Become an iOS Developer:
+Learn the Fundamentals: Master Swift programming and the Xcode IDE.
+Understand Frameworks: Study SwiftUI or UIKit for UI design.
+Build Projects: Create a portfolio of apps to showcase technical skills.
+Understand Apple's Ecosystem: Familiarize with App Store guidelines, TestFlight, and API integration.
+Develop Soft Skills: Focus on collaboration, as developers often work in teams with designers. 
+
+Career Outlook:
+iOS developers are in high demand across industries, including finance, retail, and technology.
+ Roles can be found in full-time, part-time, or freelance capacities. "
+5,Full Stack Developer,java excel react html css javascript,"A full-stack developer is a versatile software engineer proficient in building both the front-end (user-facing) and back-end (server, database) components of web applications.
+ They manage the entire development lifecycle, from designing user interfaces to implementing server logic, managing databases, and integrating APIs. Common technologies include JavaScript, React, Node.js, Python, and SQL. 
+Key Responsibilities & Skills:
+Front-End: Developing client-side interfaces using HTML, CSS, JavaScript, and frameworks like React, Vue, or Angular.
+Back-End: Building server-side logic using languages such as Python, PHP, Java, or Node.js.
+Database Management: Working with SQL (MySQL, PostgreSQL) or NoSQL (MongoDB) databases.
+API & Server: Designing and consuming RESTful APIs and managing server environments.
+Version Control: Using tools like Git for code collaboration. 
+
+Advantages of Full-Stack Developers:
+Versatility: Capable of handling multiple stages of development, which is ideal for creating MVPs (Minimum Viable Products).
+Efficiency: Ability to switch between front-end and back-end tasks streamlines the development process.
+Problem Solving: A holistic view of the application allows for better debugging and, system optimization. 
+
+How to Become a Full-Stack Developer?:
+Education: A degree in Computer Science or related fields is common, though not always required.
+Learning Path: Mastering HTML/CSS/JS, learning a back-end language (e.g., Python/Node.js), understanding databases, and using frameworks.
+Projects: Building practical applications to gain hands-on experience and build a portfolio. 
+
+Career Outlook:
+Demand: High demand due to their ability to work across the entire stack.
+Salary: In India, salaries for full-stack developers are competitive, with reported averages around ₹8,48,631 per year.
+Roles: Often involved in Agile or lean development environments, working on everything from planning to final deployment. "
+
+6,Java Developer,sql react html css,"A Java Developer is a specialized software engineer who designs, develops, and maintains applications using the Java programming language and Virtual Machine (JVM). 
+They build web, desktop, and enterprise-level applications, frequently utilizing frameworks like Spring Boot, Hibernate, and REST APIs, particularly in finance, fintech, and telecom industries. 
+Key Responsibilities & Skills:
+Development: Writing, testing, and debugging high-quality, efficient code throughout the software development life cycle (SDLC).
+Technologies: Proficiency in Core Java, JVM, Spring Boot, Microservices, and database interaction (SQL/ORM tools).
+Problem Solving: Analyzing user requirements, identifying system vulnerabilities, and implementing technical solutions.
+Collaboration: Working with teams to integrate frontend components (Angular, React) with backend logic, often in full-stack roles. 
+
+Job Market & Roles:
+Demand: High demand for Java developers, including roles like Java Backend Developer, Full Stack Developer, and Technical Lead, with numerous opportunities at firms like TCS, Capgemini, Infosys, and Morgan Stanley.
+Experience Levels: Opportunities range from freshers/junior roles to senior positions requiring 5-10+ years of experience.
+Salary: Average salary for a Java developer in India is approximately ₹6.7 Lakhs per year, with experienced professionals at companies like TCS earning significantly higher. 
+
+Common Qualifications:
+Degree in Computer Science or related field.
+Proficiency in Java 8 or higher, plus modern frameworks.
+Strong understanding of object-oriented programming (OOP) principles and design patterns."
+
+7,JavaScript Developer,java excel react html css javascript,"Job Description:
+
+ReactJS + NodeJs, Azure Functions, and GraphQL capability
+
+Strong hands on experience on javascript frameworks like reactjs
+Having hands on experience on nodejs
+Hands on experience on Azure function and integrations
+Strong hands on experience on HTML5/CSS3/Javascript
+Excellent written and verbal communication.
+Knowledge of REST as well as GRAPHQL
+Experience Range:
+
+3 - 8 years
+
+Educational Qualifications:
+
+Any graduation, and Any PG and Any Doctorate
+
+Job Responsibilities:
+
+Implementing visual components & building rich UI for complex internal and external systems.
+Taking ownership of modules, and building the foundation of new systems which are inline with improved quality, process & productivity
+Have a passion for quality and writing clean, solid, readable code that scales and performs well.
+
+Skills Required :
+
+ReactJS, NodeJS, Azure Functions, GraphQL,
+
+Job Code : #KL-DP3PZB64"
+8,DevOps Engineer,python java,"Main Responsibilities and Deliverables:
+Manage/support the rollout, scalability and execution of the automation as it is consumed by the various teams
+Ensure automation services scales to handle rapid growth
+Using the automations, establish the ability to measure and optimize system health and performance.
+On an ongoing basis; configure, tune and troubleshoot automations to achieve optimal application performance and stability
+Strong scripting experience with; Bash, Ruby, Python, Java.
+Solid experience working with commercial grade automated deployment & configuration mgmt. tools such as; Puppet, Chef, Cloudify, CFEngine. (Puppet skills strongly coveted.)
+Strong “hands-on” experience with open source and provisioning tools such as; Cobbler, Foreman, PHP, and Linux or other likewise open source systems, tools /utilities.
+Strong senior level Linux & Windows OS experience & troubleshooting skills
+
+Experience with application debugging, performance, scalability & capacity planning expertise
+Manage full system lifecycle of automations including configuration and code deployment in user acceptance test and production environments
+Improve automated product performance health checks and “self-healing” capabilities in complex highly available Cloud environments.
+Participates and assists to drive the automation tools roadmap to increase availability, performance and reduce support demands.
+Drive the adoption of Infrastructure as Code in a DevOps oriented *organization*
+
+Partner with R&D teams to engineer resilient, supportable and scalable products
+Architect solutions to leverage the best of Cloud infrastructure
+Experience with tools and software such as Urban Code, Hadoop, Tomcat, Mule, OpenAM and Apache
+Experience with F5 load balancers, networking theory and protocols (TCP/IP, HTTP, NTP, DNS) and hardware components."
+9,Software Engineer,python excel,"Overview
+
+
+Based in Silicon Valley, Tintri is a wholly owned subsidiary of DataDirect Networks (DDN.com), the data-at-scale powerhouse and world’s largest privately held storage company. Tintri solutions serve the needs of enterprise data centres with intelligent infrastructure. Our product portfolio includes advanced technologies from Tintri (acquired September 2018), Nexenta (acquired May 2019), and IntelliFlash (acquired from Western Digital November 2019). This portfolio offers a fresh choice and a new experience to elevate your user experiences through automation, analytic insight, and tight integration with application workflows for your enterprise applications, including mission-critical databases and business applications, virtualization, and flexible software defined solutions. Learn more about the Tintri portfolio of solutions at https://www.tintri.com/products
+
+Tintri is looking for motivated and passionate individuals that are self-motivated in their work and careers but we are valuing and thriving in an environment where collaboration and teamwork are at best. We are all together on a quest to provide game changing storage solutions.
+
+Job Description
+
+
+Job Location: Pune
+
+RED Senior Software Engineer – REST API Dev
+
+Job Description
+
+Responsibilities:
+
+We are looking for a Senior Software Engineer for our RED Tintri Storage engineering team who will design, build and deliver the configuration and deployment tools of DDN RED software storage product:
+Participate in the definition and implementation of the RED REST API allowing to configure, deploy and manage the RED solution on premises and on cloud.
+Participate in the system tools definition and implementation providing interaction with the storage deployments to perform analytics and provide value-added services to customers and users.
+Development competencies:
+Knowledge of REST API
+Strong experience in developing and debugging C/C++ for Linux/Unix
+Experience in developing with Python, Go
+Experiences with Git, Gerrit and Jenkins
+Very good written/verbal communication skills in English
+The ideal candidate has knowledge of and experience in several of the following subjects:
+Knowledge of configuration and deployment large systems on cloud or on premise
+Knowledge of deployment on VMs and containers
+Knowledge of development or utilization of control or data plane API for systems' management
+Skills and Experience:
+Minimum 7 years of software development experience
+Excellent written/verbal communication skills
+Excellent time management skills, with the ability to independently prioritize, multitask, and work under deadlines in a fast paced environment
+Strong interpersonal skills and ability to interact effectively with program staff
+Strong team player
+Highly effective analytical, problem solving, decision making and influencing capabilities
+Storage industry experience desired.
+Minimum of BS or MS; computer engineering, computer science or related technical field."
+10,Database Administrator,sql,"A Database Administrator (DBA) is an IT professional responsible for installing, configuring, securing, and maintaining an organization's database management systems (DBMS). They ensure data is available, secure, and performing optimally by managing backups, data recovery, performance monitoring, and user access. Their work is crucial for data-driven, secure operations. 
+Key Responsibilities
+Security & Backup: Protecting sensitive data, creating backups, and ensuring disaster recovery.
+Performance & Optimization: Monitoring database performance, identifying bottlenecks, and optimizing query speeds.
+Installation & Configuration: Installing new database software and setting up server hardware.
+Database Design & Development: Collaborating with developers to design databases, create schemas, and implement new features.
+Access Control: Managing user accounts and permissions. 
+Common Tools and Technologies
+Database Systems: Oracle, Microsoft SQL Server, MySQL, PostgreSQL, IBM DB2.
+NoSQL Databases: MongoDB, Cassandra.
+Cloud Platforms: Cloud database services. 
+Required Skills and Qualifications
+Technical Proficiency: Strong understanding of database theory, SQL, and database management software.
+Problem-Solving: Ability to troubleshoot and resolve, often complex, data issues.
+Communication: Working with IT staff, developers, and business stakeholders. 
+Career Outlook
+The demand for DBAs is growing as more companies rely on data-driven decision-making and cloud computing. While AI is evolving, skilled human administrators remain essential for maintaining data integrity and security."
+
+11,Wordpress Developer,java sql html javascript,"Experience: 2-5 years
+
+Job Location:- Aurangabad/Pune
+
+Vacancies:- 02
+
+Note: Fresher Do Not Apply
+
+Job Description
+
+Looking for experienced developers who are passionate to work with an IT / Software Development company.
+
+Basic Requirements:
+Having prior working experience on WordPress
+Should be proficient verbally and written communication skills.
+Should be capable of writing an efficient code using best software development with good coding practices.
+Able to integrate data from various back-end services and databases.
+Able to integrate with external application ERP/CRM
+Should be capable of working on Payment gateway integration on multiple platforms
+Should have adequate knowledge of relational database systems and Object Oriented Programming.
+Hands on experience required upon web applications including Security and session management.
+Capable of self- upgrading upon emerging new technologies and apply them into operations and activities.
+Able to deliver projects before deadlines.
+Able to work on multiple Frameworks such as Zend etc. would be an added advantage
+Responsibilities and Duties
+Should be able to manage on handling Multiple Projects
+Manage project independently
+Manage clients
+Able to handle the team
+Deliver projects before deadlines.
+Required Experience, Skills and Qualifications
+
+• WordPress
+• Plugin-in development
+• PHP
+• HTML/HTML5
+• Javascript/jQuery
+• Bootstrap
+• MySQL
+
+Qualification:
+• UG: B.Sc (CS/CSC/IT), BCA, BCS, BE, B.Tech (CS/CSE/IT)
+• M.Sc (CS/CSC/IT), MCA, MCS, ME, M.Tech (CS/CSE/IT)"
+12,PHP Developer,python html css,"A PHP developer creates, maintains, and customizes server-side web applications and websites using the PHP scripting language. 
+They work with databases (MySQL), APIs, and frontend technologies like HTML, CSS, and JavaScript to build functional, secure, and scalable web applications, often utilizing frameworks such as Laravel or CodeIgniter. 
+Key Responsibilities
+Back-End Development: Writing clean, efficient, and well-documented PHP code.
+Application Maintenance: Troubleshooting, debugging, and updating existing applications.
+Database Management: Designing and managing database schemas, primarily MySQL.
+Integration: Connecting web applications with APIs and third-party services.
+Collaboration: Working with UI/UX designers and front-end developers for seamless integration. 
+Essential Skills
+Core PHP: Strong understanding of PHP syntax, data structures, and object-oriented programming (OOP).
+Frameworks: Proficiency in MVC frameworks like Laravel, Symfony, or CodeIgniter.
+Databases: Proficiency in MySQL, SQL, and database optimization.
+Web Technologies: Proficiency in HTML, CSS, JavaScript, and AJAX.
+Version Control: Experience with Git for version management. 
+Job Market & Career
+Roles: Positions range from Junior PHP Developers to Senior Developers, Technical Leads, and Full Stack Developers.
+Location: Active hiring in tech hubs like Mumbai, Navi Mumbai, and Gurugram, with many roles offering hybrid or remote options.
+Salary (India): Entry-level roles often start around ₹2-4 LPA, with experienced developers earning significantly more based on skill level.
+Demand: High demand persists, especially for developers with experience in modern PHP versions (8.x) and Laravel. 
+Key Skills to Acquire
+According to GeeksforGeeks, mastering PHP, frontend languages, and MySQL takes roughly 4 to 8 months. "
+
+13,Backend Developer,java sql,"Summary of the Position:
+
+We are seeking a Backend Developer to join our application development team at India (Pune) Development Center.
+ The candidate will play a significant role in developing highly interactive and cutting-edge applications for enterprise clients. 
+ The candidate will provide hands-on development expertise and technical abilities to deliver quality software solutions.
+
+Job Responsibilities:
+
+Develop Microservices and REST API that will integrate with Frontend.
+Translate business requirements into high-quality code.
+Experience in deploying application on Cloud- Azure.
+Focus on code maintainability and performance of an application.
+Provide technical advice and assists in solving programming problems
+Hands-on experience with unit and automation testing tools such as Junit
+
+Minimum Qualifications:
+
+Bachelor’s degree in any Engineering discipline from reputed engineering college
+6+ years of strong programming skills in Cloud Technologies and backend development
+Hands-on experience in deploying Microservices and REST APIs using Java and Spring Boot.
+Strong integration experience using Node.js, AJAX and JSON
+Experience in working with NoSQL like Combos DB and RDBMS like Azure, SQL.
+Strong deployment experience on Azure functions.
+Nice to have:
+Hands-on experience with Build and CI/CD tools like Ant, Gradle, Docker, Jenkins
+Hands-on experience with unit and automation testing tools such as Junit, Rest Assured, Serenity, JMeter, etc
+Working knowledge of software design patterns, distributed systems, resiliency, security and logging
+Passionate, adaptable, flexible, independent and self-motivated individuals who take initiative and ownership of projects are desired.
+Nice to have good written and verbal communication skills
+
+Company Description
+
+Infogain is a Silicon Valley headquartered company with software platform engineering and deep domain expertise in the travel, retail, insurance and high technology industries. We accelerate the delivery of digital customer engagement systems using digital technologies such as cloud, microservices, robotic process automation and artificial intelligence to our clients.
+
+Infogain delivers positive business outcomes for Fortune 500 companies and digital natives, using rapid prototyping and a solid foundation of DevSecOps-based software platform engineering that ensure high-quality and on-time delivery. A ChrysCapital portfolio company, Infogain has offices in California, Washington, Texas, London, Dubai, India and Singapore, with delivery centers in Austin, New Delhi, Bangalore, Pune, and Mumbai.
+
+Visit us as www.infogain.com to learn more."
+14,Network Administrator,Network Administrator,"BE / BCA / any bachelor degree
+Certification: -
+CCNP, CCNA
+Experience
+1 + years of overall experience as a Network/ Security Engineer either in Service Provider Environment or diverse enterprise network.
+Key Responsibilities
+Management and configuration of Checkpoint/ Fortigate firewall & IPS Technology Checkpoint / Switching / Routing.
+Configuration of Cisco Routers
+Expert to handle the day to day checkpoint/ Fortigate firewall & IPS operational issues.
+Initial firewall/ IPS testing of parameters, operation, support and commissioning.
+Knowledge of Analysis of IPSec VPNs implementation and Manage and Monitor all VPN connectivity.
+Experience in network monitoring in NOC/ SOC to identify security breaches, service outages, network performance issues.
+Knowledge of Analyse, troubleshoot, and investigate security- related, information systems anomalies based on security platform reporting, network traffic, log files, host- based and automated security alerts
+Troubleshooting and root cause analysis of related issues firewall/ IPS Work efficiently with customer support team to solve customer issues.
+Analysing, troubleshooting and correcting network problems remotely and on- site.
+Maintaining and administering perimeter security systems such as firewalls and intrusion detection systems
+Good Communication and can handle incident and problem management.
+Problem solving skills on checkpoint firewalls, switching and routing devices.
+Good knowledge in MPLS and internet leas line links.
+Adhere to change control process.
+Has the ability to work on his/ her own, be able to remain calm under pressure and to keep his managers informed of progress against a programme of work.
+Job Type: Full-time
+Salary: ₹20,000.00 - ₹30,000.00 per month
+Schedule:
+Day shift
+Experience:
+work: 1 year (Required)
+total work: 1 year (Required)
+Network Administration: 1 year (Required)
+Education:
+Bachelor's (Required)"
+15,Node js developer,java sql html css javascript,"Job Description
+3+ years’ experience working on Node/Express and Angular Node JS, Angular Js HTML5, CSS, Node JS, JQuery and JavaScript stacks, MongoDB, Familiarity with event-driven, asynchronous I/O frameworks
+Expertise in any Relational or NoSQL databases
+Experience in developing RESTful/GraphQL APIs and microservices based applications
+Comfortable with software development best practices: unit tests, code reviews, continuous integration, deployment, secure and clean code.
+Experience is Linux development environment
+Hands on development experience within microservice based architecture
+Knowledge of server/client interactions (e.g. scalability, caching, Web application performance optimization, etc
+Proficient understanding of cross-browser compatibility issues and ways to work around them"
